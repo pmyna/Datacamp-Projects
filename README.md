@@ -10,6 +10,7 @@ List of Projects in this Repository:
 | ----- | --- |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
 | `Cleaning Bank Marketing Campaign Data`| Tidy a bank marketing campaign dataset by splitting it into subsets, updating values, converting data types, and storing it as multiple csv files. |
+| `Clustering Antarctic Penguin Species`| Arctic Penguin Exploration: Unraveling Clusters in the Icy Domain with K-means Clustering |
 | `Dr. Semmelweis and the discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. |
 | `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
 | `ML Use Case - Heart Disease Prediction` | Train a machine learning model to predict heart disease. |
