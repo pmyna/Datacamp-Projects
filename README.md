@@ -15,6 +15,7 @@ List of Projects in this Repository:
 | `Investigating Netflix Movies and Guest Stars in The Office` | Dig into a real-world Netflix movie dataset using everything from lists and loops to pandas and matplotlib. |
 | `ML Use Case - Heart Disease Prediction` | Train a machine learning model to predict heart disease. |
 | `Naïve Bees: Predict Species from Images` | Build a model that can automatically detect honey bees and bumble bees in images. |
+| `Planning a Trip to Paris with OpenAI API`| Use OpenAI's API to answer questions about tourist attractions in Paris.|
 | `Predictive Modeling for Agriculture`| Dive into agriculture using supervised machine learning and feature selection to aid farmers in crop cultivation and solve real-world problems.|
 | `The Android App Market on Google Play` | Load, clean, and visualize scraped Google Play Store data to understand the Android app market. |
 | `The GitHub History of the Scala Language?` | Find the true Scala experts by exploring its development history in Git and GitHub. |
